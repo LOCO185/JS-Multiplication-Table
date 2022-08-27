@@ -16,9 +16,3 @@ for(let i = 1; i <= 10; i++) {
     output +='</tr>';
 }
 table.innerHTML = output;
-
-
-// if(i == 1 || j == 1){
-//     output += "<th>" + i * j + "</th>";
-// }else {
-//     output += "<td>" + i * j + "</td>";
